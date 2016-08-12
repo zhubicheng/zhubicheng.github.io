@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-12T03:04:47.000Z</updated>
+  <updated>2016-08-12T03:11:53.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,21 +20,23 @@
     <link href="http://yoursite.com/2016/08/12/mweb/"/>
     <id>http://yoursite.com/2016/08/12/mweb/</id>
     <published>2016-08-12T03:01:29.000Z</published>
-    <updated>2016-08-12T03:04:47.000Z</updated>
+    <updated>2016-08-12T03:11:53.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="欢迎使用-MWeb"><a href="#欢迎使用-MWeb" class="headerlink" title="欢迎使用 MWeb"></a>欢迎使用 MWeb</h1><p>首先介绍一下 MWeb 是什么，MWeb 是专业的 Markdown 写作、记笔记、静态博客生成软件。MWeb 使用的是 Github Flavored Markdown 语法，在使用 MWeb 前，建议你一定要去 <a href="http://zh.mweb.im/" target="_blank" rel="external">MWeb 官网首页</a> 看一下介绍视频，MWeb 官网也做了比较详细的帮助，建议你也看一下大概内容，帮助的网址为：<a href="http://zh.mweb.im/help.html" target="_blank" rel="external">http://zh.mweb.im/help.html</a>。</p>
 <h2 id="需要您重点注意的"><a href="#需要您重点注意的" class="headerlink" title="需要您重点注意的"></a>需要您重点注意的</h2><p>MWeb 是有<strong>两种模式</strong>的：外部模式和文档库模式。MWeb 为了满足所有 Markdown 使用需求，设计了两种模式！外部模式用于打开和编辑所有本地 Markdown 文档。另外为了方便用 Markdown 记笔记，MWeb 设计了文档库模式，文档库中的文档也支持一键生成静态博客，以便于分享。关于两个模式的情况，还是建议您去看一下官网的视频和帮助。</p>
+<a id="more"></a>
 <h2 id="帮助我们改进-MWeb"><a href="#帮助我们改进-MWeb" class="headerlink" title="帮助我们改进 MWeb"></a>帮助我们改进 MWeb</h2><p>如果你喜欢 MWeb，想让它变得更好，你可以：</p>
 <ol>
 <li>推荐 MWeb，让更多的人知道。</li>
-<li>给我们发反馈和建议：<a href="&#109;&#x61;&#105;&#108;&#x74;&#x6f;&#x3a;&#99;&#x6f;&#x64;&#101;&#x72;&#x66;&#111;&#x72;&#97;&#x72;&#116;&#43;&#50;&#x33;&#x33;&#64;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#99;&#111;&#109;">&#99;&#x6f;&#x64;&#101;&#x72;&#x66;&#111;&#x72;&#97;&#x72;&#116;&#43;&#50;&#x33;&#x33;&#64;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#99;&#111;&#109;</a></li>
+<li>给我们发反馈和建议：<a href="&#x6d;&#x61;&#105;&#108;&#116;&#x6f;&#58;&#x63;&#x6f;&#x64;&#101;&#x72;&#102;&#111;&#x72;&#x61;&#114;&#116;&#x2b;&#50;&#x33;&#x33;&#x40;&#103;&#109;&#x61;&#x69;&#108;&#46;&#99;&#x6f;&#109;">&#x63;&#x6f;&#x64;&#101;&#x72;&#102;&#111;&#x72;&#x61;&#114;&#116;&#x2b;&#50;&#x33;&#x33;&#x40;&#103;&#109;&#x61;&#x69;&#108;&#46;&#99;&#x6f;&#109;</a></li>
 <li>在 Mac App Store 上评价 （如果是在 MAS 上购买的话）。</li>
 </ol>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;欢迎使用-MWeb&quot;&gt;&lt;a href=&quot;#欢迎使用-MWeb&quot; class=&quot;headerlink&quot; title=&quot;欢迎使用 MWeb&quot;&gt;&lt;/a&gt;欢迎使用 MWeb&lt;/h1&gt;&lt;p&gt;首先介绍一下 MWeb 是什么，MWeb 是专业的 Markdown 写作、记笔记、
+      &lt;h1 id=&quot;欢迎使用-MWeb&quot;&gt;&lt;a href=&quot;#欢迎使用-MWeb&quot; class=&quot;headerlink&quot; title=&quot;欢迎使用 MWeb&quot;&gt;&lt;/a&gt;欢迎使用 MWeb&lt;/h1&gt;&lt;p&gt;首先介绍一下 MWeb 是什么，MWeb 是专业的 Markdown 写作、记笔记、静态博客生成软件。MWeb 使用的是 Github Flavored Markdown 语法，在使用 MWeb 前，建议你一定要去 &lt;a href=&quot;http://zh.mweb.im/&quot;&gt;MWeb 官网首页&lt;/a&gt; 看一下介绍视频，MWeb 官网也做了比较详细的帮助，建议你也看一下大概内容，帮助的网址为：&lt;a href=&quot;http://zh.mweb.im/help.html&quot;&gt;http://zh.mweb.im/help.html&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id=&quot;需要您重点注意的&quot;&gt;&lt;a href=&quot;#需要您重点注意的&quot; class=&quot;headerlink&quot; title=&quot;需要您重点注意的&quot;&gt;&lt;/a&gt;需要您重点注意的&lt;/h2&gt;&lt;p&gt;MWeb 是有&lt;strong&gt;两种模式&lt;/strong&gt;的：外部模式和文档库模式。MWeb 为了满足所有 Markdown 使用需求，设计了两种模式！外部模式用于打开和编辑所有本地 Markdown 文档。另外为了方便用 Markdown 记笔记，MWeb 设计了文档库模式，文档库中的文档也支持一键生成静态博客，以便于分享。关于两个模式的情况，还是建议您去看一下官网的视频和帮助。&lt;/p&gt;
     
     </summary>
     
